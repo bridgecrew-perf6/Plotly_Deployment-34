@@ -1,0 +1,10 @@
+body {
+
+    color: #000000;
+}
+.jumbotron {
+    color: #FFFFFF;
+    background-image: url("https://images.pexels.com/photos/2340254/pexels-photo-2340254.jpeg?cs=srgb&dl=pexels-juan-agustin-2340254.jpg&fm=jpg");
+    background-size: 100% 100%;
+    text-align:center;
+}
